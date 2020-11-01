@@ -1,0 +1,4 @@
+HOME : 2
+DEV : 0
+TEST : 1
+SUMM : 1
